@@ -1,0 +1,98 @@
+{
+  "hostname": "raspberrypi",
+  "distro": "Raspbian GNU/Linux 10 (buster)",
+  "kernel": "4.19.75-v7l+",
+  "network": {
+    "adapters": {
+      "wlan0": {
+        "ip": "192.168.1.163",
+        "mac": "DC:A6:32:27:D8:01",
+        "state": "UP",
+        "mtu": "1500",
+        "vendor": "Raspberry Pi Trading Ltd"
+      },
+      "lo": {
+        "ip": "127.0.0.1",
+        "mac": "00:00:00:00:00:00",
+        "state": "UP",
+        "mtu": "65536",
+        "vendor": "XEROX CORPORATION"
+      },
+      "eth0": {
+        "ip": null,
+        "mac": "DC:A6:32:27:D7:FF",
+        "state": "DOWN",
+        "mtu": "1500",
+        "vendor": "Raspberry Pi Trading Ltd"
+      }
+    },
+    "ports": {
+      "local": [],
+      "remote": []
+    },
+    "connections": {
+      "wlan0": [
+        {
+          "ip": "192.168.1.218",
+          "mac": "18:cf:5e:56:d7:22",
+          "iface": "wlan0",
+          "vendor": "Unknown"
+        },
+        {
+          "ip": "192.168.1.205",
+          "mac": "d4:11:a3:81:3f:8f",
+          "iface": "wlan0",
+          "vendor": "Unknown"
+        },
+        {
+          "ip": "192.168.1.146",
+          "mac": "38:1a:52:28:32:e0",
+          "iface": "wlan0",
+          "vendor": "Unknown"
+        },
+        {
+          "ip": "192.168.1.143",
+          "mac": "d8:31:34:88:9e:34",
+          "iface": "wlan0",
+          "vendor": "Unknown"
+        },
+        {
+          "ip": "192.168.1.1",
+          "mac": "c2:56:27:c9:f2:d8",
+          "iface": "wlan0",
+          "vendor": "Unknown"
+        },
+        {
+          "ip": "192.168.1.210",
+          "mac": "08:05:81:c1:8f:49",
+          "iface": "wlan0",
+          "vendor": "Roku, Inc."
+        },
+        {
+          "ip": "192.168.1.160",
+          "mac": "60:01:94:74:77:2a",
+          "iface": "wlan0",
+          "vendor": "Espressif Inc."
+        },
+        {
+          "ip": "192.168.1.198",
+          "mac": "d8:6c:63:40:ef:62",
+          "iface": "wlan0",
+          "vendor": "Unknown"
+        },
+        {
+          "ip": "192.168.1.208",
+          "mac": "5e:aa:ad:16:a0:97",
+          "iface": "wlan0",
+          "vendor": "Unknown"
+        },
+        {
+          "ip": "192.168.1.246",
+          "mac": "c4:9d:ed:0e:b6:a0",
+          "iface": "wlan0",
+          "vendor": "Unknown"
+        }
+      ]
+    }
+  }
+}
